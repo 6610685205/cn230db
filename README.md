@@ -71,8 +71,11 @@ python analyze_coin_data.py
 ## โครงสร้างไฟล์
 
 ├── coin_data.py              # ดึงข้อมูลจาก CoinGecko API
+
 ├── analyze_coin_data.py      # วิเคราะห์และสร้างกราฟ
+
 ├── crypto_data.db            # ฐานข้อมูล SQLite (สร้างอัตโนมัติ)
+
 ├── README.md                 # คำอธิบายโปรเจกต์
 
 
@@ -83,9 +86,8 @@ python analyze_coin_data.py
 
 มหาวิทยาลัย ธรรมศาสตร์
 
-## อ้างอิง
+## 📚 อ้างอิง
 
-📚 อ้างอิง
 CoinGecko API Documentation: https://www.coingecko.com/en/api/documentation
 
 Python sqlite3 Module: https://docs.python.org/3/library/sqlite3.html
