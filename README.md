@@ -32,4 +32,5 @@
 ### 2. รันคำสั่งใน Terminal
 
 ```bash
-python db.py
+python coin_data.py
+python analyze_coin_data.py
