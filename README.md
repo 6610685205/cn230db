@@ -41,3 +41,7 @@ pip install requests matplotlib seaborn pandas
 ```bash
 python coin_data.py
 python analyze_coin_data.py
+```
+## สรุปและข้อเสนอแนะ
+- ได้เรียนรู้การใช้ API, การจัดการฐานข้อมูล และการวิเคราะห์ข้อมูล
+- ในอนาคตอาจเพิ่มฟีเจอร์วิเคราะห์เหรียญเพิ่มเติม, สร้างระบบแจ้งเตือนเมื่อราคาขึ้นหรือลงเกินกำหนด
